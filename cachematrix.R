@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions will create a matrix that can create a cache of the inverse
+## then return that inverse
 
 ## This function will create a matrix object that can cache it's inverse
 
